@@ -14,5 +14,6 @@ Other sites for the Fullstack training and other projects:
 | frontend1.walidfaour.com | 143.198.169.93     | digitaloceah.com / Ubuntu |
 | frontend2.walidfaour.com | 45.33.99.226       | linode.com / Ubuntu       |
 | windows.walidfaour.com   | 172.107.178.198    | vps-mart.com / Windows    |
+| www.walidfaour.com       | 185.199.110.153    | GitHub Pages / Static     |
 
 # Hosting on https://www.walidfaour.com/
