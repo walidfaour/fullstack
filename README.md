@@ -1,8 +1,8 @@
 # fullstack
 Fullstack Training with Rony Rizk
 
--Part: Web 0
--Static files for some of the exercises will be hosted here sometimes.
+Part: Web 0
+Static files for some of the exercises will be hosted here sometimes.
 
 Other sites for the Fullstack training and other projects:
 | Domain                   | IP Address         | Hosting                   |
