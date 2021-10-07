@@ -1,4 +1,4 @@
 # fullstack
 Fullstack Training
 
-#Hosting on https://www.walidfaour.com/
+# Hosting on https://www.walidfaour.com/
