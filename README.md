@@ -16,4 +16,4 @@ Other sites for the Fullstack training and other projects:
 | windows.walidfaour.com   | 172.107.178.198    | vps-mart.com / Windows    |
 | www.walidfaour.com       | 185.199.110.153    | GitHub Pages / Static     |
 
-# Hosting on https://www.walidfaour.com/
+# This GitHub Page/Repo points to https://www.walidfaour.com/
